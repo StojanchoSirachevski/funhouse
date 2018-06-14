@@ -16,6 +16,6 @@ class ShopManagementController extends Controller
 
 //        dd($calculator->dailyHours());
 
-        return $calculator->dailyHours();
+        return $calculator->dailyHours2();
     }
 }
